@@ -1,0 +1,43 @@
+vaultDial
+Copyright (c) 2026 Jhan73. Todos los derechos reservados.
+Copyright (c) 2026 Jhan73. All rights reserved.
+
+ESPAÑOL
+
+Este software (la aplicación de escritorio vaultDial, la línea de órdenes y
+el servidor vaultdial-server, con su código fuente y su documentación) es
+propiedad de Jhan73.
+
+Se permite descargar, instalar y usar los programas que Jhan73 publica (el
+instalador de vaultDial y la imagen de contenedor de vaultdial-server), sin
+modificarlos. No se concede ningún otro derecho: sin permiso escrito de Jhan73
+no se puede copiar, modificar, distribuir, sublicenciar ni vender el
+software, su código fuente u obras derivadas, ni descompilarlo o
+desensamblarlo, salvo en lo que la ley aplicable permita expresamente.
+
+EL SOFTWARE SE ENTREGA «TAL CUAL», SIN GARANTÍAS DE NINGÚN TIPO, EXPRESAS O
+IMPLÍCITAS. EN NINGÚN CASO EL TITULAR RESPONDERÁ DE RECLAMACIONES, DAÑOS U
+OTRAS RESPONSABILIDADES DERIVADAS DEL SOFTWARE O DE SU USO.
+
+Los componentes de terceros incluidos se rigen por sus propias licencias,
+recogidas en THIRD-PARTY-NOTICES.md.
+
+ENGLISH
+
+This software (the vaultDial desktop application, the command line and the
+vaultdial-server server, with their source code and documentation) is the
+property of Jhan73.
+
+You may download, install and use the programs Jhan73 publishes (the
+vaultDial installer and the vaultdial-server container image), unmodified.
+No other right is granted: without Jhan73's written permission you may not
+copy, modify, distribute, sublicense or sell the software, its source code
+or derivative works, nor decompile or disassemble it, except as the
+applicable law expressly permits.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+Third-party components included are governed by their own licenses, listed
+in THIRD-PARTY-NOTICES.md.
