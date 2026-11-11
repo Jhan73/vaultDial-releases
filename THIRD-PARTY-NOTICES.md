@@ -1,4 +1,4 @@
-# Avisos de terceros · Third-party notices · vaultDial 2.0.0-beta.2
+# Avisos de terceros · Third-party notices · vaultDial 2.0.0-beta.3
 
 vaultDial es software propietario (© 2026 Jhan73, todos los derechos reservados; ver LICENSE).
 Incluye los componentes de terceros de abajo, cada uno bajo su propia licencia.
@@ -2856,7 +2856,7 @@ Used by:
 
 Used by:
 - linux-raw-sys 0.12.1
-- rustix 1.1.5
+- rustix 1.1.6
 - target-lexicon 0.12.16
 
 ```
@@ -8553,7 +8553,7 @@ Used by:
 - ring 0.17.14
 - rust-argon2 3.0.0
 - rustc_version 0.4.1
-- rustix 1.1.5
+- rustix 1.1.6
 - rustls-native-certs 0.8.4
 - rustls 0.23.46
 - rusty-fork 0.3.1
