@@ -1,4 +1,4 @@
-# Avisos de terceros · Third-party notices · vaultDial 2.0.0-beta.3
+# Avisos de terceros · Third-party notices · vaultDial 2.0.0
 
 vaultDial es software propietario (© 2026 Jhan73, todos los derechos reservados; ver LICENSE).
 Incluye los componentes de terceros de abajo, cada uno bajo su propia licencia.
